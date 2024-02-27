@@ -79,3 +79,6 @@ log_config:
 
 snapshot_config:
   interval: 5
+
+snapshot_config:
+  interval: 6
